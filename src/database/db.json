@@ -1,0 +1,194 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Electronics",
+        "slug": "electronics",
+        "image": "https://example.com/images/electronics.jpg",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z"
+      },
+      {
+        "id": 2,
+        "name": "Books",
+        "slug": "books",
+        "image": "https://example.com/images/books.jpg",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z"
+      },
+      {
+        "id": 3,
+        "name": "Clothing",
+        "slug": "clothing",
+        "image": "https://example.com/images/clothing.jpg",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z"
+      },
+      {
+        "id": 4,
+        "name": "Home & Garden",
+        "slug": "home-garden",
+        "image": "https://example.com/images/home-garden.jpg",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z"
+      },
+      {
+        "id": 5,
+        "name": "Toys",
+        "slug": "toys",
+        "image": "https://example.com/images/toys.jpg",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z"
+      },
+      {
+        "id": 6,
+        "name": "Sports",
+        "slug": "sports",
+        "image": "https://example.com/images/sports.jpg",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z"
+      },
+      {
+        "id": 7,
+        "name": "Health",
+        "slug": "health",
+        "image": "https://example.com/images/health.jpg",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z"
+      },
+      {
+        "id": 8,
+        "name": "Beauty",
+        "slug": "beauty",
+        "image": "https://example.com/images/beauty.jpg",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z"
+      },
+      {
+        "id": 9,
+        "name": "Automotive",
+        "slug": "automotive",
+        "image": "https://example.com/images/automotive.jpg",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z"
+      },
+      {
+        "id": 10,
+        "name": "Grocery",
+        "slug": "grocery",
+        "image": "https://example.com/images/grocery.jpg",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Smartphone",
+        "price": 699,
+        "discount_price": 649,
+        "slug": "smartphone",
+        "description": "A high-end smartphone with 128GB storage.",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z",
+        "image": "https://cdn.pixabay.com/photo/2017/01/22/19/20/smartphone-2004389_1280.jpg",
+        "category_id": 1
+      },
+      {
+        "id": 2,
+        "name": "Laptop",
+        "price": 999,
+        "discount_price": 949,
+        "slug": "laptop",
+        "description": "A powerful laptop for professionals.",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z",
+        "image": "https://cdn.pixabay.com/photo/2016/11/29/09/08/computer-1869306_1280.jpg",
+        "category_id": 1
+      },
+      {
+        "id": 3,
+        "name": "Tablet",
+        "price": 499,
+        "discount_price": 459,
+        "slug": "tablet",
+        "description": "A lightweight tablet with a stunning display.",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z",
+        "image": "https://cdn.pixabay.com/photo/2015/08/05/10/24/tablet-875808_1280.jpg",
+        "category_id": 1
+      },
+      {
+        "id": 4,
+        "name": "Wireless Headphones",
+        "price": 199,
+        "discount_price": 179,
+        "slug": "wireless-headphones",
+        "description": "Noise-cancelling wireless headphones.",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z",
+        "image": "https://cdn.pixabay.com/photo/2016/11/29/12/54/headphones-1868612_1280.jpg",
+        "category_id": 1
+      },
+      {
+        "id": 5,
+        "name": "Smart Watch",
+        "price": 299,
+        "discount_price": 269,
+        "slug": "smart-watch",
+        "description": "A smart watch with various health tracking features.",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z",
+        "image": "https://cdn.pixabay.com/photo/2016/03/27/22/22/clock-1284279_1280.jpg",
+        "category_id": 1
+      },
+      {
+        "id": 6,
+        "name": "Camera",
+        "price": 549,
+        "discount_price": 499,
+        "slug": "camera",
+        "description": "A digital camera with 24MP resolution.",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z",
+        "image": "https://cdn.pixabay.com/photo/2015/10/02/17/29/photographer-967947_1280.jpg",
+        "category_id": 1
+      },
+      {
+        "id": 7,
+        "name": "Gaming Console",
+        "price": 399,
+        "discount_price": 349,
+        "slug": "gaming-console",
+        "description": "A popular gaming console with multiple features.",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z",
+        "image": "https://cdn.pixabay.com/photo/2016/11/19/14/00/gaming-1834294_1280.jpg",
+        "category_id": 1
+      },
+      {
+        "id": 8,
+        "name": "Bluetooth Speaker",
+        "price": 129,
+        "discount_price": 99,
+        "slug": "bluetooth-speaker",
+        "description": "A portable Bluetooth speaker with excellent sound quality.",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z",
+        "image": "https://cdn.pixabay.com/photo/2018/08/09/22/04/speakers-3592760_1280.jpg",
+        "category_id": 1
+      },
+      {
+        "id": 9,
+        "name": "Fitness Tracker",
+        "price": 89,
+        "discount_price": 79,
+        "slug": "fitness-tracker",
+        "description": "A fitness tracker with heart rate monitoring.",
+        "created_at": "2024-01-01T10:00:00Z",
+        "updated_at": "2024-01-01T10:00:00Z",
+        "image": "https://cdn.pixabay.com/photo/2015/",
+        "category_id":1
+      }
+    ]
+}  
