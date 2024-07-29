@@ -26,9 +26,13 @@ const Categories = () => {
     <AppLayout>
         <main>
           <div className="container">
-              {categories.map(category=> (
-                <Category />
-              ))}
+              <div className="d-flex gap-3 flex-wrap ">
+                  {categories.map(category=> (
+                    <div key={category.id}>
+                        <Category category={category} />
+                    </div>
+                  ))}
+              </div>
           </div>
         </main>
     </AppLayout>
