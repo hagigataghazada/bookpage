@@ -12,7 +12,7 @@ const Header = () => {
                 <Link to={"/"} className='text-decoration-none' >Home</Link>
               </li>
               <li>
-                {/* <Link to={"/categories"} className='text-decoration-none' >Categories</Link> */}
+                <Link to={"/categories"} className='text-decoration-none' >Categories</Link>
               </li>
               <li>
                 <Link to={"/about"} className='text-decoration-none' >About</Link>
